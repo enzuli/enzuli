@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enzuli
 - 👀 I’m interested in programming, maths, problem solving, logics
-- 🌱 I’m currently learning python, java
+- 🌱 I’m currently learning python, java, sql
 
 <!---
 enzuli/enzuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
